@@ -1,0 +1,1 @@
+$(".zhongbamghuodong main").swipeLeft(function(){var n;n+=.1,$(this).css({marginLeft:n+"rem"})}),$(".zhongbamghuodong main").swipeRight(function(){});

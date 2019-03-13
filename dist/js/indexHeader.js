@@ -1,0 +1,1 @@
+$(function(){$(".search").focus(function(){window.location.href="search.html"});new Swiper(".lunbo1",{autoplay:!0,loop:!0,pagination:{el:".swiper-pagination"}})});

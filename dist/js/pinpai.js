@@ -1,0 +1,1 @@
+var mySwiper=new Swiper(".pinpai-banner",{autoplay:!0,loop:!0,pagination:{el:".swiper-pagination"}}),navSwiper=new Swiper(".shangou-bom-banner",{freeMode:!0,slidesPerView:"auto",freeModeSticky:!0});
